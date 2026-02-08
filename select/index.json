@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Tonight ~月の下眠る君~",
+  "base_artist": "こはならむ",
+  "createdAt": "2026-02-08T09:04:30.511793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In the Air Tonight - 2015 Remaster",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/01_In_the_Air_Tonight_-_2015_Remaster_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Tonight (Edit)",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/02_Love_Tonight_(Edit)_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Need You Tonight (2017 Remaster)",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/03_Need_You_Tonight_(2017_Remaster)_INXS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Day Tonight",
+      "artist": "Noah Thompson",
+      "has_synced": true,
+      "path": "select/04_One_Day_Tonight_Noah_Thompson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "When She Comes Home Tonight",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/05_When_She_Comes_Home_Tonight_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Turn Out the Light and) Love Me Tonight",
+      "artist": "Don Williams",
+      "has_synced": false,
+      "path": "select/06_(Turn_Out_the_Light_and)_Love_Me_Tonight_Don_Williams.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "(Turn Out The Light And) Love Me Tonight (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/07_(Turn_Out_The_Light_And)_Love_Me_Tonight_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Headache Tomorrow (Or a Heartache Tonight)",
+      "artist": "Mickey Gilley",
+      "has_synced": true,
+      "path": "select/08_A_Headache_Tomorrow_(Or_a_Heartache_Tonight)_Mickey_Gilley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All About Tonight",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/09_All_About_Tonight_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All My Rowdy Friends Are Coming Over Tonight",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/10_All_My_Rowdy_Friends_Are_Coming_Over_Tonight_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Be My Baby Tonight",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/11_Be_My_Baby_Tonight_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Be My Baby Tonight (LP Version)",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/12_Be_My_Baby_Tonight_(LP_Version)_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tonight ～月の下眠る君～",
+      "artist": "こはならむ",
+      "has_synced": false,
+      "path": "select/pl_01_Tonight_~月の下眠る君~_こはならむ.txt"
+    }
+  ]
+}
